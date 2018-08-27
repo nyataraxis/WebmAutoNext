@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  WebM autoplay next media tool
 // @author       nyataraxis@gmail.com
+// @updateURL	 https://github.com/nyataraxis/WebmAutoNext/raw/master/Webmautonext.user.js
 // @match        https://*.2ch.hk/*
 // @grant        none
 // @license GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
