@@ -32,7 +32,7 @@ let listenToEvents = (elem) => {
 
 let getVideo = () => {
   video = document.querySelector('video');
-  if(video == null){
+  if(video === null){
       sleep(2000).then(() => {getVideo()})} else {
       listenToEvents(video);
       };
